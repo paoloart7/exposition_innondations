@@ -10,10 +10,11 @@ Une semaine de fortes pluies a touché six communes côtières (Gonaïves, Saint
 
 ```
 pluie/
-├── pluie.py                         # programme complet, commenté ligne par ligne
-├── Devoir #3 (rapport inclus).docx  # le fichier word qui a les captures d'ecrans et rapport
-├── Module_02_Logique_de_Programmation_et_NumPy_FR.ipynb        #Le notebook donné initialement par le professeur
-├── S05_pluie_7jours.csv             # données : pluie (mm) par commune et par jour (j1 à j7)
+├── pluie.py                                                         # programme complet, commenté ligne par ligne
+├── raport
+|        ├──RAPPORT À L’ÉQUIPE DE RÉDUCTION DES RISQUES.pdf          # le fichier word qui a les captures d'ecrans et rapport
+├── Module_02_Logique_de_Programmation_et_NumPy_FR.ipynb             #Le notebook donné initialement par le professeur
+├── S05_pluie_7jours.csv                                             # données : pluie (mm) par commune et par jour (j1 à j7)
 └── README.md                       
 ```
 
